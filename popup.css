@@ -1,0 +1,21 @@
+body {
+     width: 20rem;}
+
+.select_tag {
+    padding: 0.25rem;
+}
+
+.sub_title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkslategray;
+}
+
+.btn {
+    padding: 0.25rem;
+    background-color: darkolivegreen;
+    color: antiquewhite;
+}
