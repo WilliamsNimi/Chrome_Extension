@@ -3,6 +3,8 @@
 
 This extension helps you manage your chrome tabs by saving the tabs in your bookmarks using part of the tab title and the date it was saved, then clearing all the tabs.
 
+**NOTE: RUNNING THIS EXTENSION WILL CLEAR ALL OPEN CHROME TABS AND SAVE THEM IN BOOKMARKS PERIODICALLY.**
+
 You can configure when you want the extension to run. Avaialble options are 
 
 1. 30minutes(Runs every 30 minutes)
