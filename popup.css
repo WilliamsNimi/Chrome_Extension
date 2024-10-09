@@ -19,3 +19,16 @@ body {
     background-color: darkolivegreen;
     color: antiquewhite;
 }
+
+.btn:hover {
+    padding: 0.25rem;
+    background-color:burlywood;
+    color: antiquewhite;
+}
+
+.btn:active {
+    padding: 0.25rem;
+    background-color:brown;
+    color: antiquewhite;
+}
+
